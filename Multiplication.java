@@ -1,3 +1,4 @@
+//Print the multiplication table of a number.
 import java.util.*;
 
 public class Multiplication {
