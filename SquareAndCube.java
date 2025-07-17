@@ -5,8 +5,8 @@ public class SquareAndCube{
     Scanner sc = new Scanner(System.in);
     int a = sc.nextInt();
     int square = a*a;
-    int cube = a*a*a;
+    int cub = a*a*a;
     System.out.println("square is : "+ square);
-    System.out.println("cube is : "+ cube );
+    System.out.println("cube is : "+ cub);
   }
 }
